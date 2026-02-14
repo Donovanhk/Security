@@ -1,0 +1,6 @@
+$echo "hello world"
+$find -name  filename.txt
+$wc -l access.log
+$grep "content" filename.log
+$grep -R "content" filename.log 
+$grep -R "content" /etc/
